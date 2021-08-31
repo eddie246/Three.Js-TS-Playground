@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/eddie246/Three.Js-TS-Playground#readme",
   "devDependencies": {
+    "@types/dat.gui": "^0.7.7",
     "@types/three": "^0.131.0",
     "three": "^0.132.2",
     "ts-loader": "^9.2.5",
