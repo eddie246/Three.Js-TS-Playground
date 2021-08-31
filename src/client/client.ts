@@ -92,6 +92,7 @@ scene2.add(torus2);
 //   renderer.setSize(window.innerWidth, window.innerHeight);
 //   render();
 // }
+//
 
 function animate() {
   requestAnimationFrame(animate);
